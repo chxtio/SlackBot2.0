@@ -1,6 +1,6 @@
 # SlackBot2.0
 
-![image](https://user-images.githubusercontent.com/33184844/103165105-95f7ac00-47c8-11eb-91c1-56cfa959f432.png)
+![image](https://user-images.githubusercontent.com/33184844/103165226-db68a900-47c9-11eb-974a-010a9bd96091.png)
 
 A simple bot created with [Slack Bolt for Python](https://api.slack.com/start/building/bolt-python) using [Slack's Event API](https://api.slack.com/events).
 The app will greet new users and create an interactive modal for introductions. A basic App home was also added, with features
